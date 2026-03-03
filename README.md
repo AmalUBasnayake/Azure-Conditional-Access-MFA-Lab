@@ -32,7 +32,7 @@ This implementation follows the **Zero Trust principle: "Verify Explicitly"** by
 Conditional Access is the "Policy Engine" that sits between a connection request and the resource.
 
 <p align="center">
-  <img src="screenshots/Architecture-diagram.png" width="85%" style="border-radius: 10px; border: 1px solid #ddd;">
+  <img src="screenshots/architecture-diagram.png" width="85%" style="border-radius: 10px; border: 1px solid #ddd;">
 </p>
 
 ### 🔎 The Policy Decision Engine
@@ -106,7 +106,8 @@ A critical enterprise step. This allows admins to see if the policy would have b
 ---
 
 # 👨‍💻 Author
-**Amal Basnayake** *Cloud Security Enthusiast | Identity & Access Management | AZ-500 Candidate*
+**Amal Basnayake** 
+*Cloud Security Enthusiast | Identity & Access Management | AZ-500 Candidate*
 
 🔗 **LinkedIn:** [Amal Udayanga Basnayake](https://www.linkedin.com/in/amal-udayanga-basnayake)  
 🔗 **GitHub:** [AmalUBasnayake](https://github.com/AmalUBasnayake)
