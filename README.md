@@ -115,7 +115,7 @@ Conditional Access functions as a **policy decision engine** protecting cloud id
 ## 4️⃣ Report-Only Mode Deployment
 
 <p align="center">
-  <img src="screenshots/4-report-only.png" width="85%">
+  <img src="screenshots/enable-MFA.png" width="85%">
 </p>
 
 <p align="center">
